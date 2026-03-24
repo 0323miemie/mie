@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "timestamp": 1774377345646,
+  "timestamp": 1774377725608,
   "appVersion": "2.0.0 (2026.03.23)",
   "tables": [
     "characters",
@@ -25,6 +25,9 @@
     "userMessages",
     "ttsAudio",
     "forumData",
+    "calendarData",
+    "groupChats",
+    "xinsheng",
     "_migration"
   ]
 }
