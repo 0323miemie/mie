@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1775049086684,
-  "appVersion": "2.0.0 (2026.03.29)",
+  "timestamp": 1775498136701,
+  "appVersion": "3.0.0 (2026.04.05)",
   "tables": [
     "characters",
     "worldBooks",
@@ -29,6 +29,7 @@
     "groupChats",
     "xinsheng",
     "pomodoroSessions",
+    "couplesData",
     "_migration"
   ],
   "chunkedTables": {
